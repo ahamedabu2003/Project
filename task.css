@@ -188,7 +188,7 @@ width: 100px;
 display: flex;
 align-items: center;
 padding: 0 9%;
-background:url('/adnan\ pic.jpg')no-repeat;
+background:url('./adnan\ pic.jpg')no-repeat;
 background-size: cover;
 background-position: center;
 
