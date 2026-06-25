@@ -8,10 +8,3 @@ function sentmail(){
     }
     emailjs.send("service_3eekbl7","template_1vaaqlt",param).then(alert("email sent"))
 }
-
-
-
-
-
-
-
